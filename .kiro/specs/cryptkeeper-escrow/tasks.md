@@ -69,7 +69,9 @@
       loop with `kiro-cli login`).
 - [x] 22. Final README polish (screenshots section, how to run each
       package, disclosure of reused patterns).
-- [ ] 23. Commit + push to `catalysdrop/kiroween-cryptkeeper-escrow`
-      (public), verify `/.kiro` is present on GitHub.
-- [ ] 24. Handoff doc for the parent agent (repo, commit, concept,
+- [x] 23. Commit + push to `catalysdrop/kiroween-cryptkeeper-escrow`
+      (public), verify `/.kiro` is present on GitHub. (Commit
+      78c69c6, verified live on GitHub 27 Nov 2026: public, MIT,
+      `/.kiro` at root; demo evidence hash matches the live raw file.)
+- [x] 24. Handoff doc for the parent agent (repo, commit, concept,
       category, Kiro status, what's left: Devpost form + video).
