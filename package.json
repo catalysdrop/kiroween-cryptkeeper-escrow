@@ -1,0 +1,1 @@
+{"name":"cryptkeeper-escrow","private":true,"scripts":{"build":"npm run build --workspace=@cryptkeeper/agent && npm run build --workspace=cryptkeeper-web","test":"npm run test --workspace=@cryptkeeper/agent && (cd contracts && forge test)"},"version":"0.1.0","workspaces":["agent","web"]}

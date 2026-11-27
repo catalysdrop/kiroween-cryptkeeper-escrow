@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+.next/
+out/
+contracts/out/
+contracts/cache/
+
+# Env / secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.local
+coverage/
+
+# NOTE: /.kiro is deliberately NOT ignored. Kiroween requires the
+# /.kiro directory in the repo root as proof of Kiro usage.

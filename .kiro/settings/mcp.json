@@ -1,0 +1,1 @@
+{"mcpServers":{"filesystem":{"args":["-y","@modelcontextprotocol/server-filesystem","."],"command":"npx","description":"Local filesystem MCP server. Disabled by default: the agent already has file tools, and an open filesystem server widens the read surface. Enable only when a Kiro session needs it.","disabled":true}}}
